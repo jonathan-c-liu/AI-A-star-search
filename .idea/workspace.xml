@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0e23e75-5622-43d7-98db-0eda4686f3c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bKVrDDDRlVh4X0gwjmNfvXXqva" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cs349/spr2020-hw4-gradient-descent-jcliu168" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jonat\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test'" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jonat\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test'.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.test'" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0e23e75-5622-43d7-98db-0eda4686f3c1" name="Default Changelist" comment="" />
+      <created>1588380968606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588380968606</updated>
+      <workItem from="1588380971529" duration="6213000" />
+      <workItem from="1588387426009" duration="1236000" />
+      <workItem from="1588389244231" duration="46000" />
+      <workItem from="1588647614558" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="-171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588384580503">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state x="2334" y="-171" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588384580503" />
+    <state x="740" y="298" key="FileChooserDialogImpl" timestamp="1588647648137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="298" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588647648137" />
+    <state x="2660" y="-71" key="FileChooserDialogImpl/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588387460999" />
+    <state width="1877" height="250" key="GridCell.Tab.0.bottom" timestamp="1588389122803">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="250" key="GridCell.Tab.0.bottom/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588389122803" />
+    <state width="1877" height="250" key="GridCell.Tab.0.center" timestamp="1588389122803">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="250" key="GridCell.Tab.0.center/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588389122803" />
+    <state width="1877" height="250" key="GridCell.Tab.0.left" timestamp="1588389122803">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="250" key="GridCell.Tab.0.left/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588389122803" />
+    <state width="1877" height="250" key="GridCell.Tab.0.right" timestamp="1588389122803">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="250" key="GridCell.Tab.0.right/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588389122803" />
+    <state width="1877" height="451" key="GridCell.Tab.1.bottom" timestamp="1588387315669">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="451" key="GridCell.Tab.1.bottom/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588387315669" />
+    <state width="1877" height="451" key="GridCell.Tab.1.center" timestamp="1588387315668">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="451" key="GridCell.Tab.1.center/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588387315668" />
+    <state width="1877" height="451" key="GridCell.Tab.1.left" timestamp="1588387315668">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="451" key="GridCell.Tab.1.left/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588387315668" />
+    <state width="1877" height="451" key="GridCell.Tab.1.right" timestamp="1588387315669">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="451" key="GridCell.Tab.1.right/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588387315669" />
+    <state x="656" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1588647614585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="368" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588647614585" />
+    <state x="2576" y="-2" key="com.intellij.ide.util.TipDialog/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588387427661" />
+    <state x="2543" y="-131" width="672" height="678" key="search.everywhere.popup" timestamp="1588381515753">
+      <screen x="1920" y="-366" width="1920" height="1030" />
+    </state>
+    <state x="2543" y="-131" width="672" height="678" key="search.everywhere.popup/1920.-366.1920.1030/0.0.1536.824@1920.-366.1920.1030" timestamp="1588381515753" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab3$main.coverage" NAME="main Coverage Results" MODIFIED="1588387433217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab3$test_.coverage" NAME="test' Coverage Results" MODIFIED="1588384918022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
